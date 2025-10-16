@@ -1,0 +1,7 @@
+RLN2_results/*
+weights/*
+checkpoints/*
+datasets/*
+*.zip
+.idea/*
+__pycache__/*
