@@ -33,4 +33,4 @@ In case of questions or other requests, feel free to post it in the Issues secti
 Alternatively, drop us an [email](mailto:florin-alexandru.vasluianu@uni-wuerzburg.de).
 
 # Acknowledgements
-This repository borrows resources from [Retienxformer](https://github.com/caiyuanhao1998/Retinexformer). We thank the authors for their efforts.
+This repository borrows resources from [Retinexformer](https://github.com/caiyuanhao1998/Retinexformer). We thank the authors for their efforts.
